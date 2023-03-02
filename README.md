@@ -11,6 +11,7 @@ Any pre-requisites that may not be covered by Ansible itself or the role should 
 
 Role Variables
 --------------
+Переменные для установки кредов default/main.yml:
 
 |Переменная|Описание| 
 |-|--------|
